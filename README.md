@@ -19,7 +19,7 @@ This app provides a graphical interface to preview, organize, and activate/deact
 
 ## Screenshots
 
-> _(Add screenshots here once available)_
+<img width="993" height="916" alt="fontbook" src="https://github.com/user-attachments/assets/9e2e3dc5-462a-4cce-a4cf-0ec2a24018ab" />
 
 ---
 
