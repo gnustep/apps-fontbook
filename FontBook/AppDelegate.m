@@ -49,7 +49,7 @@
 				   initWithFontDescriptors: fontDescriptors
 						   options: NSFontAssetRequestOptionUsesStandardUI];
 
-  [request downloadFontAssetsWithCompletionHandler:^BOOL(NSError * _Nullable error) {
+  [request downloadFontAssetsWithCompletionHandler:^BOOL(NSError *error) {
       if (error != NULL)
 	{
 	  NSLog(@"Downloaded with completion code %@", error);
@@ -60,14 +60,10 @@
 #else
     NSLog(@"Not installed, this is a test for GNUstep");
 #endif
-    
 }
 
 - (void)awakeFromNib
 {
-  // Initialize the fonts controller
-  // fontsController = [[GoogleFontsController alloc] init];
-
   // Set up the table view
   [self setupTableView];
 
