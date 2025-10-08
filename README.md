@@ -39,3 +39,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/gnustep/apps-fontbook.git
 cd apps-fontbook
+buildtool
