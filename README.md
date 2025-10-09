@@ -1,4 +1,4 @@
-# GNUstep Font Book
+# apps-fontbook
 
 A lightweight font management application for the GNUstep environment, inspired by **Font Book.app** on macOS.  
 This app provides a graphical interface to preview, organize, and activate/deactivate fonts across your GNUstep desktop.
