@@ -15,9 +15,12 @@
     IBOutlet NSTextField *fontNameField;
     IBOutlet NSButton *button;
     IBOutlet GoogleFontsController *fontsController;
+    NSTextField *previewTextField;
+    NSTextField *previewStatusField;
+    NSString *previewRequestFamily;
+    NSMutableDictionary *previewFontPathsByFamily;
 }
 
 - (IBAction)loadFonts:(id)sender;
 
 @end
-
