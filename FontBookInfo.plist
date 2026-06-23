@@ -1,0 +1,1 @@
+{CFBundlExecutable = "$(EXECUTABLE_NAME)"; CFBundleDevelopmentRegion = "$(DEVELOPMENT_LANGUAGE)"; CFBundleIdentifier = "com.blacklotus.NSFontAssetRequest-test"; CFBundleVersion = 1; NSHumanReadableCopyright = ""; NSIcon = "font_book-48x48.png"; NSMainNibFile = MainMenu; NSPrincipalClass = NSApplication; }
